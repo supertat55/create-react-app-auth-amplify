@@ -15,7 +15,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo"/>
         </header>
         <h1>Sample App</h1>
-        <p>これは、Web版 VSCodeで修正したものです。</p>
+        <p>これは、Windows版 VSCodeで修正したものです。</p>
       </div>
     );
   }
